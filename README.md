@@ -48,7 +48,7 @@ Using the song and log datasets, you'll need to create a star schema optimized f
   • start_time, hour, day, week, month, year, weekday
 
 <!-- width="21px"   (https://www.linkedin.com/in/nagy99/) -->
-[<img alt="Sparkifydb_ERD" src="sparkifydb_erd.png" />];
+<img alt="Sparkifydb_ERD" src="sparkifydb_erd.png" />
 
 ***
 
